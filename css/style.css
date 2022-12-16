@@ -47,11 +47,14 @@ body{
 .greetings > span:nth-child(7){
     animation-delay: 1.2s ;
 }
+.greetings > span:nth-child(8){
+    animation-delay: 1.4s;
+}
 .greetings > span:nth-child(9){
-    animation-delay: 1.6s;
+    animation-delay: 1.6s ;
 }
 .greetings > span:nth-child(10){
-    animation-delay: 1.8s ;
+    animation-delay: 1.8s;
 }
 .greetings > span:nth-child(11){
     animation-delay: 2.0s;
@@ -61,9 +64,6 @@ body{
 }
 .greetings > span:nth-child(13){
     animation-delay: 2.4s;
-}
-.greetings > span:nth-child(14){
-    animation-delay: 2.8s;
 }
 
 .description{
